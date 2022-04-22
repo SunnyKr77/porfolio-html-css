@@ -8,14 +8,12 @@ I completed this project while learning about HTML and CSS from a course
 
 
 ## Tools Required 
----
-
-
 1. Modern Browser like Chrome, FireFox or anything like that
 2. A Text Editor like VS Code
 
 
 ## Result
+![porfolio-gif](https://user-images.githubusercontent.com/56533980/164720560-fd10641a-2c52-4d83-bdeb-97db635b3a3b.gif)
 
 
 ## License
